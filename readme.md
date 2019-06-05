@@ -1,4 +1,4 @@
-You can see the finished project here - 
+You can see the finished project here - https://marytyutyunnyk.github.io/parallaxTheme/
 
 The task: Make the HTML page from the PSD layout. 
 
